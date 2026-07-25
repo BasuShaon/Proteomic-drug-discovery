@@ -1,6 +1,6 @@
-[![DOI](https://zenodo.org/badge/1212543040.svg)](https://doi.org/10.5281/zenodo.21555056)
-
 # Proteomic-drug-discovery
+
+[![DOI](https://zenodo.org/badge/1212543040.svg)](https://doi.org/10.5281/zenodo.21555056)
 
 Repository containing scripts to regenerate all figures, training and analytics in 
 **'Proteome-guided discovery accurately maps and mitigates toxicity mechanisms of therapeutic androgen receptor degraders'** by Basu et al.
