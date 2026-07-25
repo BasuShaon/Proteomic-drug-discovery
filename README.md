@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1212543040.svg)](https://doi.org/10.5281/zenodo.21555056)
+
 # Proteomic-drug-discovery
 
 Repository containing scripts to regenerate all figures, training and analytics in 
